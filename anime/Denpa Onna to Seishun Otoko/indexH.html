@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+   <meta name="viewport" content="width=device-width, initial-scale=1">
+   <link rel="stylesheet" href="https://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.css">
+   <link rel="stylesheet" href="http://demos.jquerymobile.com/1.4.5/listview-grid/listview-grid.css">
+   <script src="https://code.jquery.com/jquery-1.11.3.min.js"></script>
+   <script src="https://code.jquery.com/jquery-1.11.3.js"></script>
+   <script src="https://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.js"></script>
+   <script src="http://zgrafic.com/list/code/tawk.js"></script>
+</head>
+<body oncontextmenu="return false" onkeydown="return false" >
+<div data-role="page" data-theme="b"  class="my-page" id="demo-page"><div  role="main" class="ui-content"><ul data-role="listview" data-inset="true" id="id01"></ul></div>
+
+<div data-role="footer" data-position="fixed" data-theme="b">
+    <div data-role="collapsible">
+<h1>Ver Video ZGTv. by ZGrafic.com</h1>
+<video id="myVid" poster="img/poster.png" src="http://hvm170g.tu.tv/vid58/0/037/490/0037490442.mp4?host=hvm170g.tu.tv" controls width="100%" height="195"></video>
+    </div>
+</div>
+
+</div>
+
+<script>
+function myFunction(arr) {
+    var out = "";
+    var i;
+    for(i = 0; i<arr.length; i++) {
+        out += '<li><a  onclick="document.getElementById(' + arr[i].onc +').src= ' + arr[i].url +'"><img src="' + arr[i].imag + '"   class="ui-li-thumb" alt="Test image" /><h2>' + arr[i].titulo + '</h2><p>' + arr[i].subt + '</p><p class="ui-li-aside">' + arr[i].display + '</p><a href="' + arr[i].desc + '" data-icon="arrow-d" target="_blank">Download</a></a></li>';
+    }
+    document.getElementById("id01").innerHTML = out;
+}
+</script>
+
+<script src="js.js"></script>
+
+</body>
+</html>
