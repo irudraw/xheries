@@ -1,0 +1,43 @@
+myFunction([
+{
+"display": "01",
+"titulo": "Cinderella Girls Gekijou",
+"subt": "Sub Esp.",
+"url": "'V1ZWb1UwMUhUa1ZpTTFwTlRXMW5lVlJXVW01bFZYaDFWV3BHVFdKc1NYbFVSRTVoWTBad1JWSlliRTlWZW1nelZFaHdRbVZyTlRWUFJFcFBVa1ZXTWxSVlVrSmxhelUyVjFSQ1RsWkZNSHBVV0dzeFpFZE9SVlZUT1doU2VtdzJXa1ZSZUdJeVVuRlNWRkpPWVZSVmQxcEdUVEZOUjFKdVVGUXdQUT09K1Y='",
+"desc": "V1ZWb1UwMUhUa1ZpTTFwTlRXMW5lVlJXVW01bFZYaDFWV3BHVFdKc1NYbFVSRTVoWTBad1JWSlliRTlWZW1nelZFaHdRbVZyTlRWUFJFcFBVa1ZXTWxSVlVrSmxhelUyVjFSQ1RsWkZNSHBVV0dzeFpFZE9SVlZUT1doU2VtdzJXa1ZSZUdJeVVuRlNWRkpPWVZSVmQxcEdUVEZOUjFKdVVGUXdQUT09K1Y=",
+"onc": "'myVid'",
+"imag": "poster.png",
+"postervid": "'img/postervid.png'",
+},
+{
+"display": "1.1",
+"titulo": "Cinderella Girls Gekijou",
+"subt": "Sub Esp.",
+"url": "'YUhSMGNEb3ZMMmgyTVRneUxuUjFMblIyTDNacFpERTBOQzh3THpBek55ODJOREV2TURBek56WTBNVEUwTlM1dGNEUS9hRzl6ZEQxb2RqRTRNaTUwZFM1MGRnPT0rRw=='",
+"desc": "YUhSMGNEb3ZMMmgyTVRneUxuUjFMblIyTDNacFpERTBOQzh3THpBek55ODJOREV2TURBek56WTBNVEUwTlM1dGNEUS9hRzl6ZEQxb2RqRTRNaTUwZFM1MGRnPT0rRw==",
+"onc": "'myVid'",
+"imag": "poster.png",
+"postervid": "'img/postervid.png'",
+},
+{
+"display": "02",
+"titulo": "Cinderella Girls Gekijou",
+"subt": "Sub Esp.",
+"url": "'YUhSMGNEb3ZMMmgyTVRnekxuUjFMblIyTDNacFpERTFOUzh3THpBek55ODJORGN2TURBek56WTBOelF5TkM1dGNEUS9hRzl6ZEQxb2RqRTRNeTUwZFM1MGRnPT0rRw=='",
+"desc": "YUhSMGNEb3ZMMmgyTVRnekxuUjFMblIyTDNacFpERTFOUzh3THpBek55ODJORGN2TURBek56WTBOelF5TkM1dGNEUS9hRzl6ZEQxb2RqRTRNeTUwZFM1MGRnPT0rRw==",
+"onc": "'myVid'",
+"imag": "poster.png",
+"postervid": "'img/postervid.png'",
+},
+{
+"display": "03",
+"titulo": "Cinderella Girls Gekijou",
+"subt": "Sub Esp.",
+"url": "'V1ZWb1UwMUhUa1ZpTTFwTlRXMW5lVlJXVW01bFZYaDFWV3BHVFdKc1NYbFVSRTVoWTBad1JWSlVRazloVkdnelZFaHdRbVZyTlRWUFJFcFBWa1pHTWxSVlVrSmxhelUyVjFSR1QxSkZNREJVVmsweFpFZE9SVlZUT1doU2VtdzJXa1ZSZUdJeVVuRlNWRkpPWVZSVmQxcEdUVEZOUjFKdVVGUXdQUT09K1Y='",
+"desc": "V1ZWb1UwMUhUa1ZpTTFwTlRXMW5lVlJXVW01bFZYaDFWV3BHVFdKc1NYbFVSRTVoWTBad1JWSlVRazloVkdnelZFaHdRbVZyTlRWUFJFcFBWa1pHTWxSVlVrSmxhelUyVjFSR1QxSkZNREJVVmsweFpFZE9SVlZUT1doU2VtdzJXa1ZSZUdJeVVuRlNWRkpPWVZSVmQxcEdUVEZOUjFKdVVGUXdQUT09K1Y=",
+"onc": "'myVid'",
+"imag": "poster.png",
+"postervid": "'img/postervid.png'",
+},
+
+])
